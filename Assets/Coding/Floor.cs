@@ -7,6 +7,7 @@ public class Floor : MonoBehaviour
         Player _player = collision.gameObject.GetComponent<Player>();
         if(_player != null){
             _player.gameObject.SetActive(false);
+            FindFirstObjectByType<GameManager>().killPlayer();
         }
     }
 }

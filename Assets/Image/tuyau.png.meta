@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ad7a8565225e6445b84266e6541e9ef2
+guid: 14b60a81cc96f40838e076763c977241
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -116,10 +116,10 @@ TextureImporter:
       name: tuyau_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 263
         y: 0
-        width: 235
-        height: 300
+        width: 626
+        height: 1200
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
